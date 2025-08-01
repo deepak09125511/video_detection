@@ -3,6 +3,7 @@ import random
 from mediapipe.python.solutions.pose import PoseLandmark
 import os
 
+
 # ✅ Fixed path construction
 json_path = os.path.abspath(os.path.join(os.path.dirname(__file__), '..', 'pose', 'funny_labels.json'))
 
