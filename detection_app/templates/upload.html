@@ -1,0 +1,21 @@
+{%load static%}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Upload Video</title>
+  <link rel="stylesheet" href="{% static 'styles/upload.css' %}">
+</head>
+<body>
+  <div class="upload-container">
+    <h1>🎬 Upload Your Video</h1>
+    <form method="POST" enctype="multipart/form-data">
+      {% csrf_token %}
+      <input type="file" name="video" required>
+      <button type="submit">Upload</button>
+    </form>
+  </div>
+</body>
+</html>
+
+

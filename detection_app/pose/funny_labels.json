@@ -1,0 +1,28 @@
+{
+  "default": [
+    "Vibe check!",
+    "Still loading...",
+    "Just chilling'"
+  ],
+  "hands_up": [
+    "Hands up!"
+  ],
+  "one_leg_up": [
+    "Crane kick!",
+    "Balancing act"
+  ],
+  "hugging": [
+    "Free hugs!",
+    "Hug mode",
+    "Cuddle time"
+  ],
+  "combo_pose": [
+    "Gym hero"
+  ],
+  "running": [
+    "Run, bro!"
+  ],
+  "bent_over": [
+    "Back pain alert!"
+  ]
+}

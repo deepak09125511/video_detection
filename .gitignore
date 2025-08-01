@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Environments
+env/
+venv/
+
+# Media and video files
+media/
+*.mp4
+*.avi
+
+# Django
+*.sqlite3
+*.log
+
+# IDE and system files
+.DS_Store
+.vscode/
+.idea/
+
+# Secrets
+.env
+*.env

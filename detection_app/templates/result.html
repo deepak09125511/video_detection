@@ -1,0 +1,27 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Processed Video</title>
+  <link rel="stylesheet" href="{% static 'styles/result.css' %}">
+</head>
+<body>
+
+  <h2>Processed Video with Captions:</h2>
+
+  <video controls width="500">
+    <source src="/media/{{ output_video }}" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+
+  <br><br>
+
+  <a href="/media/{{ output_video }}" download>
+    <button>⬇️ Download Captioned Video</button>
+  </a>
+
+  <br><a href="/">Upload another</a>
+
+</body>
+</html>
