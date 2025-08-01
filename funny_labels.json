@@ -1,0 +1,39 @@
+{
+  "default": [
+    "Vibe check!",
+    "Still loading...",
+    "Just chillin'",
+    "Pose mode on",
+    "Mood: Undefined"
+  ],
+  "hands_up": [
+    "Hands up!",
+    "Don't shoot!",
+    "Snack time!"
+  ],
+  "one_leg_up": [
+    "Crane kick!",
+    "Balancing act"
+  ],
+  "hugging": [
+    "Free hugs!",
+    "Hug mode",
+    "Cuddle time"
+  ],
+  "combo_pose": [
+    "Pro level!",
+    "Gym hero",
+    "Skill issue"
+  ],
+  "running": [
+    "Zoom!",
+    "Run, bro!",
+    "Outta here!"
+  ],
+  "bent_over": [
+    "Back pain alert!",
+    "Where’s my sock?",
+    "Tired already?"
+  ]
+}
+
