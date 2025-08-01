@@ -1,14 +1,22 @@
 # Human Motion Detection & Captioning System
 
-This project is a **Python-based backend system** for detecting humans in a video, tracking them with unique IDs, estimating their body pose using MediaPipe, and generating funny captions based on their posture.
+## Basic Details
+### Team Name: 404 Squad
 
-## 🎯 Features
+### Team Members
+- Team Lead: Deepak - TKM College of Engineering
+- Member 2: Ajlan - TKM College of Engineering
 
-- Human detection using **YOLOv8**.
-- Multi-object tracking using **DeepSORT**.
-- Pose estimation using **MediaPipe**.
-- Funny or descriptive caption generation for each person using a custom `caption_engine`.
-- Processed output video with bounding boxes, IDs, and captions.
+### Project Description
+A video processing web app that detects human motion and automatically generates funny captions based on pose estimation and tracking.
+
+### The Problem (that doesn't exist)
+People watching CCTV or surveillance footage don’t get enough *laughs*. Videos are serious — where are the memes?
+
+### The Solution (that nobody asked for)
+We turn boring video footage into entertainment by automatically identifying what each person might be doing and slapping a funny caption on them.
+
+---
 
 ---
 
