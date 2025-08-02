@@ -2,7 +2,7 @@ Django>=4.2
 gunicorn
 ultralytics
 opencv-python
-mediapipe
+mediapipe-silicon
 deep-sort-realtime
 numpy
 Pillow
