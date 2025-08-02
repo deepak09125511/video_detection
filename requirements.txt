@@ -1,0 +1,8 @@
+Django>=4.2
+gunicorn
+ultralytics
+opencv-python
+mediapipe
+deep-sort-realtime
+numpy
+Pillow
