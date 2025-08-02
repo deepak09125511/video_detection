@@ -3,7 +3,7 @@ import cv2
 import sys
 from ultralytics import YOLO
 from deep_sort_realtime.deepsort_tracker import DeepSort
-import mediapipe_silicon as mp
+import mediapipe as mp
 
 # Add path to captioning folder
 sys.path.append(os.path.join(os.path.dirname(__file__), '..'))
