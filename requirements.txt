@@ -1,7 +1,7 @@
-Django>=4.2
+Django>=4.2,<5.0
 gunicorn
 ultralytics
-opencv-python
+opencv-python-headless
 mediapipe==0.10.9
 deep-sort-realtime
 numpy
